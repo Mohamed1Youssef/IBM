@@ -29,14 +29,6 @@ Copy
 /Assets
     ├── Images                    # Images used in the presentation or reports
 /README.md                       # This file
-Installation and Setup
-Clone the Repository:
-
-bash
-Copy
-git clone https://github.com/your-username/spacex-launch-prediction.git
-Install Dependencies:
-
 This project requires the following Python libraries:
 
 pandas
